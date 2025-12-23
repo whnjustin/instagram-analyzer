@@ -1,0 +1,10 @@
+# Data exports and derived files
+/data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS cruft
+.DS_Store
+Thumbs.db
