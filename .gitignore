@@ -1,5 +1,8 @@
 # Data exports and derived files
-/data/
+/data/*
+!/data/.gitkeep
+/data/export/*
+!/data/export/.gitkeep
 
 # Python cache
 __pycache__/
